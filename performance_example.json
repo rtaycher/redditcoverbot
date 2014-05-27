@@ -1,0 +1,998 @@
+{
+    "covers": [
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Monday Off"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/85735"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Chris de Burgh"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/97961"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Evan Rachel Wood"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/103909"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Wings"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/104838"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Lynne Arriale Trio"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/1984"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Chet Atkins"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/1985"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Beachfront Property"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/1986"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Beatlejazz"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/1987"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Michael Bellar & As-Is Ensemble"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/1988"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Julie Blue"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/1989"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Sarah Brooks with Joe Beck"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/1990"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Uri Caine"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/1991"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Peter Calo"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/1992"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Canadian Brass"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/1993"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Terri Lyne Carrington"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/1994"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Marc Copland & Vic Juris"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/1995"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "The Dalton Gang"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/1996"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Desmond Dekker"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/1997"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Dion"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/1998"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Doves"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/1999"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Richard Dworsky"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2000"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Jason Falkner"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2001"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Dionne Farris"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2002"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Jos\u00e9 Feliciano"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2003"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Five Floor Monica"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2004"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Tim Garland, Geoff Keezer & Joe Locke"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2005"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Hampton String Quartet"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2006"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Harpers Bizarre"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2007"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Justin Hayward"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2008"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "The King's Singers"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2010"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Olga Konkova"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2011"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "L.A. Workshop"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2012"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Mary LaRose and Ledhead"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2013"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Sylvain Luc & Bireli Lagrene"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2014"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Charles Lyonhart"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2015"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Ren\u00e9 Marie"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2016"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Bonnie Pink"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2017"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Mary McCaslin"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2018"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Ron McCurdy Quintet"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2019"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Bobby McFerrin"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2020"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Sarah McLachlan"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2021"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Brad Mehldau"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2022"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Mr. Groove"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2023"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Mose Jones"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2024"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Night Ark"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2025"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Over the Rhine"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2026"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Pastiche"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2028"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Jaco Pastorius"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2029"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Bernadette Peters"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2030"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Phish"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2031"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Pieces of 8"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2032"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Postage Era"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2033"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Billy Preston"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2034"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Punch"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2035"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Kenny Rankin"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2036"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Release Music Orchestra"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2037"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Stefan Scaggiari"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2039"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Paul Schwartz"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2040"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Tom Scott"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2041"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Joe Sherbanee"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2042"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Jon Simon"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2043"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Denzal Sinclaire"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2044"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Dev Singh & Gaynor Jenkins"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2045"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Sixth Wave"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2046"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Gary Smart"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2047"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Mike Strickland"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2048"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Sylvester"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2049"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Trio Rococo"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2051"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Dave Valentin"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2052"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Sarah Vaughan"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2053"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Jerry Vivino"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2054"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Rick Wakeman"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2055"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Jan Wallgren"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2056"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Crosby, Stills & Nash"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/2605"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Micky Dolenz"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/11584"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "The Swingle Singers"
+            }, 
+            "title": "Blackbird/I Will", 
+            "uri": "http://www.secondhandsongs.com/performance/22806"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Arturo Sandoval"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/23518"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Adrian Belew"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/24812"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Paul McCartney"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/33015"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Emmerson Nogueira"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/34506"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Ramsey Lewis"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/38829"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Petra Magoni & Ferruccio Spinetti"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/39425"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Dr. Fink & the Mystery Band"
+            }, 
+            "title": "End (Medley: A) If I Fell B) Michelle C) Yesterday D) Blackbird E) Hey Jude F) The End)", 
+            "uri": "http://www.secondhandsongs.com/performance/40157"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Colin Linden"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/42694"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Carly Simon"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/48840"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Judy Collins"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/61136"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Emmanuel Santarromana"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/66322"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Bobby Darin"
+            }, 
+            "title": "Beatles Medley: Hey Jude/Eleanor Rigby/Blackbird/A Day In The Life", 
+            "uri": "http://www.secondhandsongs.com/performance/70791"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Carly Smithson"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/73325"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Kaare Norge"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/116085"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Catherine McKinnon"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/116792"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Lesley Garrett"
+            }, 
+            "title": "For No One/Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/120817"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Connie Evingson"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/120923"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Phil Abraham"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/121125"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "The 44th Street Portable Flower Factory"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/121684"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "David Nathan"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/126046"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Louis Van Dyke"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/126513"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Tok Tok Tok"
+            }, 
+            "title": "Blackbird (The Fool on the Hill)", 
+            "uri": "http://www.secondhandsongs.com/performance/130223"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Two in Tune"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/137890"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Anne Sofie von Otter & Brad Mehldau"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/138927"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Neil Diamond"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/140942"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Anne Ducros"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/141963"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Cassandra Wilson"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/142908"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "The Jazz Crusaders"
+            }, 
+            "title": "Black Bird", 
+            "uri": "http://www.secondhandsongs.com/performance/143552"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Eve St. Jones"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/146080"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Dick Hyman"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/146160"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Carnival Bird"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/168613"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Melissa Stylianou"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/168788"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Yukiko Hayashi"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/178991"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Cecilia Smith"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/179611"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Enzo Pietropaoli Featuring Maria Pia De Vito"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/193686"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Shelly Berg Trio"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/201856"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Michael John Hall"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/206298"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Kathleen Grace"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/207118"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Laurence Juber"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/207516"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Sarah Darling"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/210102"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Alden David & Michael James"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/215069"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "Bossa Rio"
+            }, 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/performance/218681"
+        }
+    ], 
+    "date": "1968-06-11", 
+    "derivedWorks": [
+        {
+            "entityType": "song", 
+            "title": "Lon-Dubh", 
+            "uri": "http://www.secondhandsongs.com/work/122497", 
+            "versions": [
+                {
+                    "entityType": "recording", 
+                    "performer": {
+                        "name": "Julie Fowlis"
+                    }, 
+                    "title": "Blackbird", 
+                    "uri": "http://www.secondhandsongs.com/performance/194342"
+                }
+            ]
+        }
+    ], 
+    "entityType": "recording", 
+    "external_uri": [
+        {
+            "site": "http://www.youtube.com", 
+            "uri": "http://www.youtube.com/watch?v=UaSMROk-D-A"
+        }
+    ], 
+    "originals": [], 
+    "performer": {
+        "artist": {
+            "commonName": "The Beatles", 
+            "entityType": "artist", 
+            "uri": "http://www.secondhandsongs.com/artist/41"
+        }, 
+        "name": "The Beatles"
+    }, 
+    "releases": [
+        {
+            "entityType": "audio album", 
+            "title": "The Beatles [White Album]", 
+            "uri": "http://www.secondhandsongs.com/release/712"
+        }
+    ], 
+    "title": "Blackbird", 
+    "uri": "http://www.secondhandsongs.com/performance/1983", 
+    "works": [
+        {
+            "entityType": "song", 
+            "title": "Blackbird", 
+            "uri": "http://www.secondhandsongs.com/work/1983"
+        }
+    ]
+}

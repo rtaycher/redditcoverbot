@@ -1,0 +1,79 @@
+{
+    "catalogNr": "CS 9349", 
+    "date": "1966-07-08", 
+    "ean": null, 
+    "entityType": "audio album", 
+    "external_uri": [], 
+    "label": {
+        "entityType": "label", 
+        "name": "Columbia", 
+        "uri": "http://www.secondhandsongs.com/label/656"
+    }, 
+    "performances": [
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "The Byrds"
+            }, 
+            "title": "Mr. Spaceman", 
+            "uri": "http://www.secondhandsongs.com/performance/192"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "The Byrds"
+            }, 
+            "title": "Eight Miles High", 
+            "uri": "http://www.secondhandsongs.com/performance/1278"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "The Byrds"
+            }, 
+            "title": "5D (Fifth Dimension)", 
+            "uri": "http://www.secondhandsongs.com/performance/3676"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "The Byrds"
+            }, 
+            "title": "I See You", 
+            "uri": "http://www.secondhandsongs.com/performance/5877"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "The Byrds"
+            }, 
+            "title": "Hey Joe (Where You Gonna Go)", 
+            "uri": "http://www.secondhandsongs.com/performance/12406"
+        }, 
+        {
+            "entityType": "recording", 
+            "performer": {
+                "name": "The Byrds"
+            }, 
+            "title": "Wild Mountain Thyme", 
+            "uri": "http://www.secondhandsongs.com/performance/12408"
+        }
+    ], 
+    "performer": {
+        "artist": {
+            "commonName": "The Byrds", 
+            "entityType": "artist", 
+            "uri": "http://www.secondhandsongs.com/artist/35"
+        }, 
+        "name": "The Byrds"
+    }, 
+    "picture": {
+        "entityType": "picture", 
+        "title": "", 
+        "uri": "http://www.secondhandsongs.com/picture/1518"
+    }, 
+    "title": "Fifth Dimension", 
+    "tributes": [], 
+    "type": "Vinyl", 
+    "uri": "http://www.secondhandsongs.com/release/123"
+}

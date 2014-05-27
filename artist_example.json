@@ -1,0 +1,28 @@
+{
+    "birthDate": "1931-01-22", 
+    "comments": "R&B, pop, and early soul singer.  Cooke was also a songwriter.  His death by gunshot in 1964 was ruled a justifiable homocide, but this conclusion has been questioned by many.", 
+    "commonName": "Sam Cooke", 
+    "creditedWorks": "http://www.secondhandsongs.com/artist/123/work", 
+    "deathDate": "1964-12-11", 
+    "entityType": "artist", 
+    "homeCountry": "United States", 
+    "performances": "http://www.secondhandsongs.com/artist/123/performance", 
+    "picture": {
+        "entityType": "picture", 
+        "title": "", 
+        "uri": "http://www.secondhandsongs.com/picture/54885"
+    }, 
+    "relations": [
+        {
+            "artist": {
+                "commonName": "Linda Womack", 
+                "entityType": "artist", 
+                "uri": "http://www.secondhandsongs.com/artist/12880"
+            }, 
+            "comments": "Daughter", 
+            "relationName": "is family of"
+        }
+    ], 
+    "releases": "http://www.secondhandsongs.com/artist/123/release", 
+    "uri": "http://www.secondhandsongs.com/artist/123"
+}
